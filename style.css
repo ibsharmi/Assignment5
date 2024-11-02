@@ -1,0 +1,10 @@
+.navbar-brand img {
+    max-height: 50px; /* Adjust logo height */
+  }
+.card {
+    margin-bottom: 20px;
+  }
+  .image{
+    width:100%;
+    height:auto;
+  }
